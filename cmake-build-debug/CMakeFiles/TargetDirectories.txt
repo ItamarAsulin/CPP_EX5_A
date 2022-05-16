@@ -1,0 +1,3 @@
+/home/itamarq/CLionProjects/CPP/Ex5_A/cmake-build-debug/CMakeFiles/Ex5_A.dir
+/home/itamarq/CLionProjects/CPP/Ex5_A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/itamarq/CLionProjects/CPP/Ex5_A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
