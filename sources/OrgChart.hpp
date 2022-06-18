@@ -44,6 +44,8 @@ namespace ariel {
 
         bool contains(string const& name);
 
+        friend std::ostream & operator << (std::ostream &out, const OrgChart &orgChart);
+
         friend void validateIsInChart(OrgChart const& orgChart, string const& superiorName, string const& subordinateName);
 
     };

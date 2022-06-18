@@ -199,4 +199,7 @@ namespace ariel {
         throw logic_error(
                 "The Superior To Which You Are Trying To Add A Subordinate Does Not Exist In The Organization!\n");
     }
+    std::ostream & operator << (std::ostream &out, const OrgChart &orgChart){
+        return out;
+    }
 }
